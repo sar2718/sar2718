@@ -82,7 +82,7 @@ I study **Systems Analysis and Control at MEPhI** and additionally complete a **
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sar2718&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
 
-### How I work
+### About me
 
 I calmly handle feedback, quickly get into new tasks, and I am comfortable learning independently. In team projects, I try to keep the process clear, communicate progress, and bring tasks to a working result.
 
@@ -159,7 +159,7 @@ I calmly handle feedback, quickly get into new tasks, and I am comfortable learn
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sar2718&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
 
-### Как я работаю
+### Обо мне
 
 Спокойно отношусь к обратной связи, быстро включаюсь в новые задачи и не боюсь разбираться самостоятельно. В командной работе стараюсь держать понятный процесс, регулярно показывать прогресс и доводить задачу до рабочего результата.
 
